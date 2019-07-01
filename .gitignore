@@ -1,0 +1,7 @@
+*.pyc
+*~
+__pycache__
+bloggers_env
+db.sqlite3
+/static
+.DS_Store
